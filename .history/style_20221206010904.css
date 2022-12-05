@@ -1,0 +1,19 @@
+html{
+    font-size: 62.5%;
+    /* 1rem=10px; */
+    font-family: 'Inter', sans-serif;
+}
+* {
+    box-sizing: border-box;
+}
+.herder{
+    background-image: url(./images/Header/Rectangle\ 8\ \(9\).png);
+    object-fit: cover;
+}
+.header__logo{
+    margin-top: 6rem;
+}
+.logo_images{
+    margin-left: 11.4rem;
+    margin-top: -2rem;
+}

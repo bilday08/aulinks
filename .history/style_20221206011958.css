@@ -1,0 +1,42 @@
+html{
+    font-size: 62.5%;
+    /* 1rem=10px; */
+}
+* {
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Inter', sans-serif;
+}
+.herder{
+    background-image: url(./images/Header/Rectangle\ 8\ \(9\).png);
+    object-fit: cover;
+}
+.header__logo{
+    margin-top: 6rem;
+}
+.logo_images{
+    margin-left: 11.4rem;
+    margin-top: -2rem;
+}
+.contact_images{
+    margin-left: 40rem;
+    margin-top: -7rem;
+}
+.text_name{
+    display: block;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-style: normal;
+    font-style: 20px;
+    line-height: 24px;
+    color: black;
+}
+.text_number{
+    color: #FBBA1D;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+}

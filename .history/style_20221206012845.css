@@ -18,22 +18,15 @@ body{
 .logo_images{
     margin-left: 11.4rem;
     margin-top: -2rem;
-    width: 7.8rem;
-    height: 7.1rem;
 }
 .contact_images{
     margin-left: 40rem;
     margin-top: -7rem;
 }
-.header__text{
-    margin-left: 80rem;
-    margin-top: -8rem;
-}
 .text_name{
     display: block;
     width: 14.5rem;
-    height: 3rem;
-    font-family: 'Inter Tight';
+    height: 30px;
     font-weight: 400;
     font-size: 20px;
     line-height: 24px;
@@ -41,28 +34,9 @@ body{
 }
 .text_number{
     color: #FBBA1D;
-    width: 18.5rem;
-    height: 2.4rem;
     font-family: 'Inter Tight';
     font-style: normal;
     font-weight: 700;
     font-size: 20px;
     line-height: 24px;
-}
-.header__button{
-    margin-left: 100rem;
-    margin-top: -5rem;
-}
-.button_name{
-    text-align: center; 
-    text-decoration: none;
-    padding: 0.8rem 3.9rem;
-    color: black;
-    background-color: #FBBA1D;
-    width: 22.3rem;
-    height: 4.1rem;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 24px;
-    border-radius: 30px;
 }
