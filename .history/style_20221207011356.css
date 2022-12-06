@@ -92,13 +92,10 @@ body{
 .button_name_yellow{
     background-color: #FBBA1D;
 }
-.main_top_header{
-    max-width: 100%;
-}
 .main{
     max-width: 100%;
     height: 79.4rem;
     background-image: url(./images/Main/brmain.png);
     object-fit: cover;
-    margin-top: 5rem;
+    margin-top: 10rem;
 }
