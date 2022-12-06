@@ -21,12 +21,9 @@ body{
 } */
 .logo_images{
     margin-left: 11.4rem;
-    margin-top: 2rem;
+    margin-top: -2rem;
     width: 7.8rem;
     height: 7.1rem;
-}
-.logo_text{
-    margin-top: 2rem;
 }
 .contact_images{
     margin-left: 40rem;
