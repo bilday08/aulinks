@@ -68,13 +68,10 @@ body{
     line-height: 24px;
     border-radius: 30px;
 }
-.herder__button_white{
-    margin-top: 6rem;
-    margin-left: 11.4rem;
-}
 .button_name_white{
     text-decoration: none;
     text-align: center;
+    display: block;
     color: black;
     background-color: white;
     padding: 0.7rem 3.5rem;
@@ -85,8 +82,6 @@ body{
     line-height: 24px;
     border-radius: 30px;
     border: 1px solid #000000;
-    margin-left: 2rem;
-}
-.button_name_yellow{
-    background-color: #FBBA1D;
+    margin-top: 60px;
+    margin-left: 114px;
 }
