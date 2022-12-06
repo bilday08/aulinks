@@ -24,8 +24,6 @@ body{
 .contact_images{
     margin-left: 40rem;
     margin-top: -7rem;
-    width: 30.8rem;
-    height: 8.1rem;
 }
 .header__text{
     margin-left: 80rem;
@@ -52,7 +50,7 @@ body{
     line-height: 24px;
 }
 .header__button{
-    margin-left: 110rem;
+    margin-left: 105rem;
     margin-top: -5rem;
 }
 .button_name{

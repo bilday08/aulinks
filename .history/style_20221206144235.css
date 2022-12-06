@@ -26,6 +26,7 @@ body{
     margin-top: -7rem;
     width: 30.8rem;
     height: 8.1rem;
+    border-color: #FBBA1D;
 }
 .header__text{
     margin-left: 80rem;
@@ -52,7 +53,7 @@ body{
     line-height: 24px;
 }
 .header__button{
-    margin-left: 110rem;
+    margin-left: 100rem;
     margin-top: -5rem;
 }
 .button_name{
