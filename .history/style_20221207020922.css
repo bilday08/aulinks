@@ -14,7 +14,8 @@ body{
     background-image: url(./images/Header/Rectangle\ 8\ \(9\).png);
     background-repeat: no-repeat;
     background-size: auto;
-    z-index: 1;
+    object-fit: cover;
+    z-index: 1000;
 }
 .header__logo{
     margin-top: 6rem;

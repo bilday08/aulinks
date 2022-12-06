@@ -3,7 +3,7 @@ html{
     /* 1rem=10px; */
 }
 * {
-    box-sizing: border-box;
+    box-sizing: content-box;
 }
 body{
     font-family: 'Inter Tight', sans-serif;

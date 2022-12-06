@@ -15,6 +15,7 @@ body{
     background-repeat: no-repeat;
     background-size: auto;
     z-index: 1;
+    margin-top: -60rem;
 }
 .header__logo{
     margin-top: 6rem;
