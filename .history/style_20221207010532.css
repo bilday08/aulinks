@@ -9,8 +9,6 @@ body{
     font-family: 'Inter Tight', sans-serif;
 }
 .herder{
-    max-width: 100%;
-    height: 36rem;
     background-image: url(./images/Header/Rectangle\ 8\ \(9\).png);
     object-fit: cover;
 }
