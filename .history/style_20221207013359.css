@@ -14,7 +14,7 @@ body{
     height: 36rem;
     background-image: url(./images/Header/Rectangle\ 8\ \(9\).png);
     object-fit: cover;
-    z-index: 1000;
+    z-index: 1020;
 }
 .header__logo{
     margin-top: 6rem;
@@ -95,7 +95,7 @@ body{
     background-color: #FBBA1D;
 }
 .main_top_header{
-    max-width: 144rem;
+    max-width: 100%;
 }
 .main{
     max-width: 100%;
