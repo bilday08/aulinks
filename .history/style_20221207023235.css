@@ -9,11 +9,13 @@ body{
     font-family: 'Inter Tight', sans-serif;
 }
 .container_fluid_header{
+    display: block;
     max-width: 100%;
     height: 36rem;
     background-image: url(./images/Header/Rectangle\ 8\ \(9\).png);
     background-repeat: no-repeat;
     background-size: auto;
+    z-index: 1;
 }
 /* .header__logo{
     margin-top: 6rem;
@@ -107,4 +109,5 @@ body{
     background-image: url(./images/Main/brmain.png);
     object-fit: cover;
     margin-top: -10em;
+    z-index: -1;
 }
