@@ -148,12 +148,12 @@ body{
 .center_button{
     text-decoration: none;
     max-width: 109rem;
-    height: 31.3rem;
+    height: 313px;
     background-color:#FFFFFF;
     border-radius: 81px;
     display: block;
-    margin-top: 16.5rem;
-    margin-left: 16.2rem;
-    margin-right: 18.5rem;
-    padding-top: 7.8rem;
+    margin-top: 165px;
+    margin-left: 162px;
+    margin-right: 185px;
+    padding-top: 78px;
 }
