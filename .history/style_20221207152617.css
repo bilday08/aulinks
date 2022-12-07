@@ -187,23 +187,6 @@ body{
 .global_heading{
     max-width: 41.8rem;
     height: 95px;
-    margin-top: 30.3rem;
+    margin-top: 21.3rem;
     margin-left: 11.3rem;
-}
-.global_text{
-    max-width: 43.2rem;
-    height: 18.9rem;
-    margin-left: 11.3rem;
-    margin-top: 4.1rem;
-}
-.global_button{
-    margin-left: 11rem;
-    margin-top: 1.5rem;
-}
-.service_images_right{
-    width: 58.3rem;
-    height: 36rem;
-    display: block;
-    margin-top: -35rem;
-    margin-left: 60rem;
 }
