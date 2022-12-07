@@ -158,29 +158,24 @@ body{
     padding-top: 7.8rem;
 }
 .button_number{
-    display: inline-block;
+    display: block;
     font-weight: 600;
     font-size: 100px;
     line-height: 121px;
     color: #646464;
-    margin-left: 6.5rem;
+    margin-left: 4.9rem;
 }
-.button__first .button__second{
+/* .button__first .button__second .button__third {
     display: inline;
-}
+} */
 .button_text{
     width: 24rem;
-    height: 3.3rem;
-    display: inline;
+    height: 33px;
+    display: block;
     font-weight: 400;
     font-size: 30px;
     line-height: 30px;
     color: #000000;
-    margin-left: 8rem;
-}
-.text_second{
-    margin-left: 15rem;
-}
-.text_thrid{
-    margin-left: 14rem;
+    margin-left: 62px;
+    margin-bottom: 78px;
 }

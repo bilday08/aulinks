@@ -165,22 +165,16 @@ body{
     color: #646464;
     margin-left: 6.5rem;
 }
-.button__first .button__second{
+/* .button__first .button__second .button__third {
     display: inline;
-}
+} */
 .button_text{
     width: 24rem;
     height: 3.3rem;
-    display: inline;
+    display: inline-block;
     font-weight: 400;
     font-size: 30px;
     line-height: 30px;
     color: #000000;
-    margin-left: 8rem;
-}
-.text_second{
-    margin-left: 15rem;
-}
-.text_thrid{
-    margin-left: 14rem;
+    margin-left: 6rem;
 }

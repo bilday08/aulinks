@@ -179,8 +179,6 @@ body{
     margin-left: 8rem;
 }
 .text_second{
-    margin-left: 15rem;
-}
-.text_thrid{
-    margin-left: 14rem;
+    display: block;
+    margin-left: 8rem;
 }
