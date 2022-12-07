@@ -302,34 +302,6 @@ body{
     font-size: 17px;
     color: #646464;
     line-height: 67px;
-    /* margin-top: -35.7rem; */
+    margin-top: -20rem;
     margin-left: 18.9rem;
-}
-.underlined{
-    display: block;
-    position: absolute;
-    width: 54rem;
-    height: 0px;
-    border: 1px solid #000000;
-    margin-left: 18.9rem;
-}
-.login_titles{
-    margin-top: -35.7rem;
-}
-.button_login_box{
-    text-decoration: none;
-    text-align: center;
-    display: block;
-    padding: 8px 103px;
-    color: black;
-    background-color: #FBBA1D;
-    width: 27rem;
-    height: 4rem;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 24px;
-    border-radius: 30px;
-    white-space: nowrap;
-    margin-top: 5.4rem;
-    margin-left: 32.4rem;
 }
