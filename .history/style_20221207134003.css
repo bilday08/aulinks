@@ -115,33 +115,6 @@ body{
     font-size: 40px;
     line-height: 48px;
     color: #000000;
-    margin-left: 65rem;
+    margin-left: 70rem;
     margin-top: 8rem;
-}
-.main_content{
-    width: 53.5rem;
-    height: 12rem;
-    font-weight: 400;
-    font-size: 17px;
-    line-height: 30px;
-    color: #000000;
-    margin-top: 2.8rem;
-    margin-left: 65rem;
-}
-.main_button{
-    text-decoration: none;
-    text-align: center;
-    display: block;
-    padding: 8px 39px;
-    color: black;
-    background-color: #FBBA1D;
-    width: 27rem;
-    height: 4rem;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 24px;
-    border-radius: 30px;
-    margin-top: 4.3rem;
-    margin-left: 65rem;
-    white-space: nowrap;
 }
