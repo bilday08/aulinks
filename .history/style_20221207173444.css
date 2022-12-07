@@ -331,32 +331,15 @@ body{
     border-radius: 30px;
     white-space: nowrap;
     margin-top: 5.4rem;
-    margin-left: 20rem;
+    margin-left: 32.4rem;
 }
 .login_contact_number{
     display: block;
-    width: 40rem;
-    height: 3rem;
+    width: 47.6rem;
+    height: 3.7rem;
     font-weight: 700;
-    font-size: 40px;
+    font-size: 50px;
     line-height: 30px;
     color: #FBBA1D;
-    margin-left: 82rem;
-    margin-top: -28rem;
-}
-.login_contact_text{
-    display: block;
-    width: 17rem;
-    height: 3.3rem;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 30px;
-    margin-left: 82rem;
-    margin-top: 2.6rem;
-}
-.login_contact_images{
-    width: 30.8rem;
-    height: 8.9rem;
-    margin-left: 82rem;
-    margin-top: 2rem;
+    margin-left: 70rem;
 }
