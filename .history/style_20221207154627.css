@@ -211,20 +211,13 @@ body{
     width: 54rem;
     height: 31rem;
     display: block;
-    margin-top: -33rem;
+    margin-top: -30.3rem;
     margin-left: 5rem;
 }
 .global_text_left{
     max-width: 43.2rem;
     height: 18.9rem;
-    margin-top: 2rem;
 }
 .global_button_left{
     margin-top: 1.5rem;
-}
-.global_heading_left{
-    margin-top: 10rem;
-}
-.service_margin{
-    margin-top: 10rem;
 }
