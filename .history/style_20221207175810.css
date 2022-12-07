@@ -212,7 +212,7 @@ body{
     height: 31rem;
     display: block;
     margin-top: -33rem;
-    margin-left: 10rem;
+    margin-left: 5rem;
 }
 .global_text_left{
     max-width: 43.2rem;
@@ -223,10 +223,10 @@ body{
     margin-top: 1.5rem;
 }
 .global_heading_left{
-    margin-top: 15rem;
+    margin-top: 10rem;
 }
 .service_margin{
-    margin-top: 15rem;
+    margin-top: 10rem;
 }
 .main_brand{
     background-image: url(./images/Main/Rectangle\ 7\ \(3\).png);
@@ -263,10 +263,10 @@ body{
     line-height: 30px;
     color: #000000;
     margin-top: 2.5rem;
-    margin-left: 14rem;
+    margin-left: 11rem;
 }
 .icon_margin{
-    margin-left: 6rem;
+    margin-left: 4.5rem;
 }
 .login_box{
     width: 69.2rem;
