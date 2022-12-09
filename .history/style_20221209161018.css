@@ -432,12 +432,9 @@ body{
     line-height: 24px;
     border-radius: 30px;
     border: 1px solid #000000;
-    margin-top: 1.6rem;
+    margin-top: -1.6rem;
     margin-left: 100rem;
 }
 .yellow{
     background-color: #FBBA1D;
-}
-.bottom-thrid{
-    margin-top: -26rem;
 }
