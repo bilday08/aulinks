@@ -1,7 +1,7 @@
-html{
+/* html{
     font-size: 62.5%;
-    /* 1rem=10px; */
-}
+    /* 1rem=10px;
+} */
 * {
     box-sizing: border-box;
 }
@@ -433,7 +433,7 @@ body{
     border-radius: 30px;
     border: 1px solid #000000;
     margin-top: 1.6rem;
-    margin-left: 103rem;
+    margin-left: 110rem;
 }
 .yellow{
     background-color: #FBBA1D;
