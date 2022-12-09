@@ -373,14 +373,8 @@ body{
     font-family: 'Inter', sans-serif;
     background-image: url(./images/Footer/Rectangle\ 10\ \(4\).png);
 }
-.footer_logo_bee{
+.footer_logo{
     width: 7.8rem;
     height: 7.1rem;
     margin-top: 5.7rem;
-    margin-left: 11.3rem;
-}
-.footer_logo{
-    width: 13rem;
-    height: 3rem;
-    margin-top: 7.8rem;
 }
